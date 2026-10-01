@@ -1,0 +1,10 @@
+Lobres_Fruits  = ["APPLE", "ORANGE", "CHERRY"]
+print(Lobres_Fruits[0])
+Lobres_Fruits.append("BANANA")
+print(Lobres_Fruits)
+Lobres_Fruits.insert(1, "PINEAPPLE")
+print(Lobres_Fruits)
+Lobres_Fruits.remove("ORANGE")
+print(Lobres_Fruits)
+Lobres_Fruits.pop(2)
+print(Lobres_Fruits)
